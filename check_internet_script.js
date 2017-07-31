@@ -55,7 +55,7 @@ function thereIsInternet(time) {
     }
   }
 
-  console.log(`Intenet connection OK! Response time=${res.time}ms`);
+  console.log(`Intenet connection OK! Response time=${time}ms`);
 }
 
 /**
