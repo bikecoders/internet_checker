@@ -1,7 +1,15 @@
 {
   "name": "internet_checker",
-  "version": "1.0.0",
-  "description": "Check internet connection and emmit sound when there's no internet",
+  "version": "1.1.1",
+  "description": "Check internet connection and emmit sound when there's no internet. This is very useful when your connection is not stable and you don't want to waste time checking often if your internet connection is really down.",
+  "keywords": [
+    "Internet Checker",
+    "slow connection",
+    "slow internet connection",
+    "internet connection announcer",
+    "script",
+    "reactiveX"
+  ],
   "main": "check_internet_script.js",
   "dependencies": {
     "ping": "^0.2.2",
@@ -11,6 +19,31 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node check_internet_script.js"
   },
-  "author": "BikeCoders",
-  "license": "ISC"
+  "author": {
+    "name": "BikeCoders",
+    "email": "bikecoders@gmail.com",
+    "url": "https://github.com/bikecoders"
+  },
+  "contributors": [
+    {
+      "name": "Diego Juliao",
+      "email": "dianjuar@gmail.com",      
+      "url": "https://github.com/dianjuar"
+    },
+    {
+      "name": "Yossely Mendoza",
+      "email": "yossely7@gmail.com",
+      "url": "https://github.com/yossely"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:bikecoders/internet_checker.git"
+  },
+  "bugs": {
+      "url": "https://github.com/bikecoders/internet_checker/issues"
+  },
+  "homepage": "https://github.com/bikecoders/internet_checker#readme",
+  "readmeFilename": "README.md"
 }
