@@ -11,11 +11,18 @@ Script to run it on background to check and announce when your Internet connecti
 2. You must have [`speak`](http://espeak.sourceforge.net/) installed
 
 ### Steps
+
+#### From GitHub
 1. Clone this repo `git clone https://github.com/bikecoders/internet_checker`
 2. Step into the folder you just cloned `internet_checker`
 3. Install node dependencies with `npm install`
 4. Run the script with `npm start`
 5. Done, now the computer will notify you when your internet is down
+
+#### From NPM
+1. Run `npm i internet_checker`
+2. Step into `node_modules/internet_checker`
+3. Run the script with `npm start`
 
 ## How it works ?
 
