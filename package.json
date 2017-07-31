@@ -1,6 +1,6 @@
 {
   "name": "internet_checker",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Check internet connection and emmit sound when there's no internet. This is very useful when your connection is not stable and you don't want to waste time checking often if your internet connection is really down.",
   "keywords": [
     "Internet Checker",
@@ -27,7 +27,7 @@
   "contributors": [
     {
       "name": "Diego Juliao",
-      "email": "dianjuar@gmail.com",      
+      "email": "dianjuar@gmail.com",
       "url": "https://github.com/dianjuar"
     },
     {
@@ -42,7 +42,7 @@
     "url": "git+ssh://git@github.com:bikecoders/internet_checker.git"
   },
   "bugs": {
-      "url": "https://github.com/bikecoders/internet_checker/issues"
+    "url": "https://github.com/bikecoders/internet_checker/issues"
   },
   "homepage": "https://github.com/bikecoders/internet_checker#readme",
   "readmeFilename": "README.md"
