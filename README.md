@@ -1,5 +1,7 @@
 # Internet Checker
 
+[![npm version](https://badge.fury.io/js/internet_checker.png)](https://badge.fury.io/js/internet_checker)
+
 Script to run it on background to check and announce when your Internet connection is down and up by emitting a sound.
 
 > **This is very useful when your connection is not stable and you don't want to waste time checking often if your internet connection is really down.**
